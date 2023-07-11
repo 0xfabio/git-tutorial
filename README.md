@@ -1,2 +1,2 @@
-# Git Tutoria
-# Jason was here :) l
+# Git Tutorial
+# Jason was here :) 
